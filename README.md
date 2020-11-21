@@ -1,4 +1,4 @@
-# githubapi
+# Github Search
 
 This is an Android application built using Flutter and Github API, using this a user can search any persons's github profile.
 
